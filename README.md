@@ -18,7 +18,7 @@ See Packages:
 
 ```yaml
 dev_dependencies:
-    date_utils: ^0.2.0
+    date_utils: ^0.18.0
 ```
 
 2. Run `dart pub get`
